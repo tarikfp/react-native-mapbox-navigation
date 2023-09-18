@@ -1,6 +1,6 @@
 {
   "name": "@tarikfp/react-native-mapbox-navigation",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Smart Mapbox turn-by-turn routing based on real-time traffic for React Native.",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
