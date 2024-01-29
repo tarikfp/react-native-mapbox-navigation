@@ -416,7 +416,7 @@ class MapboxNavigation(private val context: ThemedReactContext, private val acce
             event.putString("onArrive", "")
             context
                 .getJSModule(RCTEventEmitter::class.java)
-                .receiveEvent(id, "onRouteProgressChange", event)
+                .receiveEvent(id, "onArrive", event)
         }
     }
 
